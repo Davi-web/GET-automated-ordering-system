@@ -158,7 +158,7 @@ def check_out(comments):
 
 
 if __name__ == "__main__":
-    log_on("haj1", "David.21002333")
+    log_on("ENTER USERNAME", "ENTER PASSWORD")
     choose_restaurant("Kissam_Taqueria")
     EBI_Omelet_Order = ["Shell Eggs", "Diced Turkey Ham", "Pork Bacon Crumbles", "Cheddar Mild Shredded",
                         "Sliced Mushrooms", "Diced Onion", "Baby Spinach", "Salsa", "Fresh Fruit Cup", "Apple Juice"]
